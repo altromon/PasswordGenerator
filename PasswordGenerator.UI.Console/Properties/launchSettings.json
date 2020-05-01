@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "PasswordGenerator.UI.Console": {
+      "commandName": "Project"
+    }
+  }
+}
